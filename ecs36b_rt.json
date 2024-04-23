@@ -1,0 +1,13 @@
+[
+    {
+        "name": "register team",
+        "params": {
+            "action": "register_team",
+            "your_json": {}
+        },
+        "returns": {
+            "action": "return",
+	    "response": "jsonstr"
+        }
+    }
+]
